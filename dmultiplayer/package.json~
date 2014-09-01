@@ -1,0 +1,13 @@
+{
+    "id": "dmultiplayer",
+    "name": "GDTMP Continutation",
+    "version": "0.5.11",
+    "author": "Darkly",
+    "url": "http://forum.greenheartgames.com/t/wip-gdtmp-multiplayer-mod-client-0-5-11-server-1-5-5-0-now-in-10-languages/10509",
+    "description": "Co-operate and compete with other people!\n\nThis is a continuation of the currently inactive multiplayer mod by Darkly! This new mod follow the exact same license as the last. For more information, please see the forum topic.\n\nhttp://forum.greenheartgames.com/t/gdtmp-continuation/14647",
+    "main": "./dmultiplayer.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    },
+    "image": "gdtmp-Thumbnail.png"
+}

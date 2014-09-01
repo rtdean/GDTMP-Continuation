@@ -1,0 +1,3 @@
+; This file is run on startup, after loading all plugins.
+; Any console commands can be used in macro files.
+; It is possible to automatically load other macros from here, but do NOT load plugins!
